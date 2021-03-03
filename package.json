@@ -1,0 +1,26 @@
+{
+  "name": "progressive-badget",
+  "version": "1.0.0",
+  "description": "pwa",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uarly/Progressive-badget.git"
+  },
+  "author": "arly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uarly/Progressive-badget/issues"
+  },
+  "homepage": "https://github.com/uarly/Progressive-badget#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.6.1",
+    "mongoose": "^5.11.18",
+    "morgan": "^1.10.0"
+  }
+}
